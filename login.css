@@ -16,11 +16,12 @@ body{
     border-radius: 50px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     background-image: url(1669_uhd.jpg);
-    background-position:left;
+    background-position:center;
     border-color: indigo;
     border-style: solid;
-    height: 400px;
+    height: 450px;
     color: #fff;
+    margin-right: 75%;
 }
 
 
@@ -56,9 +57,10 @@ body{
         background-position:left;
         border-color: indigo;
         border-style: solid;
-        height: 400px;
+        height: 500px;
         color: #fff;
-        margin-right: 70%;
+        margin-right: 75%;
+    
         
     }
     .header{
